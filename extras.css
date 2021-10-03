@@ -1,0 +1,38 @@
+.meet {
+	text-align: center;
+	padding-bottom: 65px;
+	border-bottom: 5px solid rgb(255, 246, 246);
+	margin-bottom: 50px;
+}
+
+.footer-copyright:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.links-footer:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.btn {
+	border-radius: 15px;
+}
+
+/* width */
+::-webkit-scrollbar {
+	width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px black;
+	border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	/* background: #0270d7; */
+	background: white;
+	border-radius: 10px;
+}
